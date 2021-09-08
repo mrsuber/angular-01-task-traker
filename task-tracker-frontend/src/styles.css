@@ -30,6 +30,7 @@ body{
   text-decoration: none;
   font-size: 15px;
   font-family: inherit;
+  
 }
 .btn:focus{
   outline:none;
@@ -43,9 +44,7 @@ body{
   width: 100%;
 }
 
-.add-form{
-  margin-bottom: 40px;
-}
+
 
 
 .form-control{
